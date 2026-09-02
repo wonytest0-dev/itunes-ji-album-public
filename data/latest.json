@@ -1,4 +1,124 @@
 {
-  "generatedAt": null,
-  "note": "No runs yet. This file is overwritten by the scraper workflow on each run."
+  "generatedAt": "2026-09-02T10:46:50.550Z",
+  "countriesFetched": 119,
+  "countriesSucceeded": 119,
+  "countriesFailed": 0,
+  "jiminEntriesFound": 8,
+  "newAlbumsDetected": [
+    {
+      "title": "MUSE",
+      "firstCountrySeen": "Singapore",
+      "rank": 32
+    },
+    {
+      "title": "FACE - EP",
+      "firstCountrySeen": "Micronesia",
+      "rank": 55
+    }
+  ],
+  "newNumberOnes": [],
+  "reEntries": [],
+  "stillNumberOne": [],
+  "currentChart": [
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Singapore",
+      "countryFlag": "🇸🇬",
+      "rank": 32,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Micronesia",
+      "countryFlag": "🇫🇲",
+      "rank": 47,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Micronesia",
+      "countryFlag": "🇫🇲",
+      "rank": 55,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Nepal",
+      "countryFlag": "🇳🇵",
+      "rank": 61,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Kyrgyzstan",
+      "countryFlag": "🇰🇬",
+      "rank": 62,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Laos",
+      "countryFlag": "🇱🇦",
+      "rank": 87,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Laos",
+      "countryFlag": "🇱🇦",
+      "rank": 89,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Bahrain",
+      "countryFlag": "🇧🇭",
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    }
+  ],
+  "lifetimeTotals": {
+    "totalNumberOneEvents": 0,
+    "uniqueAlbumsWithNumberOne": 0
+  }
 }

@@ -1,6 +1,95 @@
 {
-  "lastRunAt": null,
-  "entries": {},
+  "lastRunAt": "2026-09-02T10:46:50.550Z",
+  "entries": {
+    "muse|singapore": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Singapore",
+      "lastRank": 32,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|micronesia": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Micronesia",
+      "lastRank": 47,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|micronesia": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Micronesia",
+      "lastRank": 55,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|nepal": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Nepal",
+      "lastRank": 61,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|kyrgyzstan": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Kyrgyzstan",
+      "lastRank": 62,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|laos": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Laos",
+      "lastRank": 87,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|laos": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Laos",
+      "lastRank": 89,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|bahrain": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Bahrain",
+      "lastRank": 94,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    }
+  },
   "totals": {
     "numberOneEvents": 0,
     "albumsWithNumberOne": 0

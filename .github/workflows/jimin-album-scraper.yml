@@ -19,7 +19,7 @@ jobs:
       - name: Checkout private code repo
         uses: actions/checkout@v4
         with:
-          repository: wonytest0-dev/itunes-album
+          repository: wonytest0-dev/itunes-ji-album
           token: ${{ secrets.PRIVATE_REPO_PAT }}
           path: scraper-code
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T18:00:33.013Z",
+  "generatedAt": "2026-09-02T18:21:43.878Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -16,9 +16,9 @@
       "country": "Singapore",
       "countryFlag": "🇸🇬",
       "rank": 46,
-      "previousRank": 45,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -107,6 +107,7 @@
       "numberOneCount": 0
     }
   ],
+  "lifetimeTotalsByAlbum": {},
   "lifetimeTotals": {
     "totalNumberOneEvents": 0,
     "uniqueAlbumsWithNumberOne": 0

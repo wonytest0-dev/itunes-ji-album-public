@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T08:00:36.792Z",
+  "generatedAt": "2026-09-03T09:00:36.934Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -64,9 +64,9 @@
       "country": "Singapore",
       "countryFlag": "🇸🇬",
       "rank": 83,
-      "previousRank": 82,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 83,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T15:00:40.989Z",
+  "generatedAt": "2026-09-03T16:00:42.510Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 7,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -91,18 +91,6 @@
       "previousRank": 94,
       "rankChange": "=",
       "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Singapore",
-      "countryFlag": "🇸🇬",
-      "rank": 94,
-      "previousRank": 91,
-      "rankChange": "-3",
-      "rankDelta": -3,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

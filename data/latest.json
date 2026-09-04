@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T01:00:40.880Z",
+  "generatedAt": "2026-09-04T02:04:29.909Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -37,6 +37,18 @@
     {
       "title": "MUSE",
       "artist": "Jimin",
+      "country": "Kyrgyzstan",
+      "countryFlag": "🇰🇬",
+      "rank": 59,
+      "previousRank": 67,
+      "rankChange": "+8",
+      "rankDelta": 8,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
       "country": "Nepal",
       "countryFlag": "🇳🇵",
       "rank": 61,
@@ -49,24 +61,12 @@
     {
       "title": "MUSE",
       "artist": "Jimin",
-      "country": "Kyrgyzstan",
-      "countryFlag": "🇰🇬",
-      "rank": 67,
-      "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
       "country": "Laos",
       "countryFlag": "🇱🇦",
       "rank": 86,
-      "previousRank": 87,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 86,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -76,9 +76,9 @@
       "country": "Laos",
       "countryFlag": "🇱🇦",
       "rank": 88,
-      "previousRank": 89,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 88,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-06T10:00:35.987Z",
+  "lastRunAt": "2026-09-06T11:00:34.563Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -86,6 +86,28 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T10:46:50.550Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|thailand": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Thailand",
+      "lastRank": 103,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-06T11:00:34.563Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|thailand": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Thailand",
+      "lastRank": 104,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-06T11:00:34.563Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

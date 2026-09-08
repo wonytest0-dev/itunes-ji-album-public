@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-08T20:00:37.813Z",
+  "lastRunAt": "2026-09-08T21:00:40.445Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -119,6 +119,17 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-06T14:00:34.325Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|taiwan": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Taiwan",
+      "lastRank": 50,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-08T21:00:40.445Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

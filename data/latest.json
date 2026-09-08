@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T20:00:37.813Z",
+  "generatedAt": "2026-09-08T21:00:40.445Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 7,
+  "jiminEntriesFound": 8,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -19,6 +19,18 @@
       "previousRank": 47,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Taiwan",
+      "countryFlag": "🇹🇼",
+      "rank": 50,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T08:00:39.584Z",
+  "generatedAt": "2026-09-09T09:01:17.147Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 7,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -40,9 +40,9 @@
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
       "rank": 60,
-      "previousRank": 59,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 60,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -79,18 +79,6 @@
       "previousRank": 88,
       "rankChange": "=",
       "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Taiwan",
-      "countryFlag": "🇹🇼",
-      "rank": 90,
-      "previousRank": 73,
-      "rankChange": "-17",
-      "rankDelta": -17,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

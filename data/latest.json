@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T02:00:39.360Z",
+  "generatedAt": "2026-09-09T03:00:41.804Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -64,9 +64,9 @@
       "country": "Taiwan",
       "countryFlag": "🇹🇼",
       "rank": 62,
-      "previousRank": 60,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 62,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -76,9 +76,9 @@
       "country": "Laos",
       "countryFlag": "🇱🇦",
       "rank": 86,
-      "previousRank": 87,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 86,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -88,9 +88,9 @@
       "country": "Laos",
       "countryFlag": "🇱🇦",
       "rank": 88,
-      "previousRank": 89,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 88,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -100,9 +100,9 @@
       "country": "Bahrain",
       "countryFlag": "🇧🇭",
       "rank": 91,
-      "previousRank": 92,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 91,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:00:40.738Z",
+  "generatedAt": "2026-09-11T12:00:38.789Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -87,10 +87,10 @@
       "artist": "Jimin",
       "country": "Bahrain",
       "countryFlag": "🇧🇭",
-      "rank": 89,
+      "rank": 90,
       "previousRank": 89,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

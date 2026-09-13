@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T14:00:46.808Z",
+  "generatedAt": "2026-09-13T15:00:38.942Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -37,8 +37,8 @@
     {
       "title": "MUSE",
       "artist": "Jimin",
-      "country": "Kyrgyzstan",
-      "countryFlag": "🇰🇬",
+      "country": "Nepal",
+      "countryFlag": "🇳🇵",
       "rank": 62,
       "previousRank": 62,
       "rankChange": "=",
@@ -49,12 +49,12 @@
     {
       "title": "MUSE",
       "artist": "Jimin",
-      "country": "Nepal",
-      "countryFlag": "🇳🇵",
-      "rank": 62,
+      "country": "Kyrgyzstan",
+      "countryFlag": "🇰🇬",
+      "rank": 63,
       "previousRank": 62,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

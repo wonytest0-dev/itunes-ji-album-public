@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T10:00:44.688Z",
+  "generatedAt": "2026-09-13T11:00:48.032Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 7,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -40,9 +40,9 @@
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
       "rank": 62,
-      "previousRank": 63,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 62,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -91,18 +91,6 @@
       "previousRank": 91,
       "rankChange": "=",
       "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Switzerland",
-      "countryFlag": "🇨🇭",
-      "rank": 177,
-      "previousRank": 160,
-      "rankChange": "-17",
-      "rankDelta": -17,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

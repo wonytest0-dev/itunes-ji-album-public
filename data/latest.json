@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T04:00:41.402Z",
+  "generatedAt": "2026-09-13T05:00:40.450Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Switzerland",
       "countryFlag": "🇨🇭",
-      "rank": 149,
-      "previousRank": 147,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "rank": 156,
+      "previousRank": 149,
+      "rankChange": "-7",
+      "rankDelta": -7,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

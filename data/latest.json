@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-09-15T20:00:39.915Z",
+  "generatedAt": "2026-09-15T21:00:40.254Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 7,
+  "jiminEntriesFound": 8,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Vietnam",
+      "countryFlag": "🇻🇳",
+      "rank": 18,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
     {
       "title": "MUSE",
       "artist": "Jimin",

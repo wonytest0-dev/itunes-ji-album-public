@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T14:00:41.893Z",
+  "generatedAt": "2026-09-15T15:00:42.739Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -64,9 +64,9 @@
       "country": "Taiwan",
       "countryFlag": "🇹🇼",
       "rank": 83,
-      "previousRank": 69,
-      "rankChange": "-14",
-      "rankDelta": -14,
+      "previousRank": 83,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

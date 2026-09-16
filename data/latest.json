@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:00:39.847Z",
+  "generatedAt": "2026-09-16T01:00:45.034Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -15,10 +15,10 @@
       "artist": "Jimin",
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
-      "rank": 19,
+      "rank": 20,
       "previousRank": 19,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

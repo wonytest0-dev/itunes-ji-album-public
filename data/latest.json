@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:00:42.012Z",
+  "generatedAt": "2026-09-16T17:00:40.189Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -16,9 +16,9 @@
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
       "rank": 36,
-      "previousRank": 34,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 36,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

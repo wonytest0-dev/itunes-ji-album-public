@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T14:00:37.983Z",
+  "generatedAt": "2026-09-16T15:00:42.434Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -16,9 +16,9 @@
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
       "rank": 34,
-      "previousRank": 29,
-      "rankChange": "-5",
-      "rankDelta": -5,
+      "previousRank": 34,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -67,6 +67,18 @@
       "previousRank": 62,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Mexico",
+      "countryFlag": "🇲🇽",
+      "rank": 74,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T21:00:40.234Z",
+  "generatedAt": "2026-09-17T22:01:11.905Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -10,18 +10,6 @@
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Mexico",
-      "countryFlag": "🇲🇽",
-      "rank": 45,
-      "previousRank": 45,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
     {
       "title": "MUSE",
       "artist": "Jimin",
@@ -35,14 +23,26 @@
       "numberOneCount": 0
     },
     {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Mexico",
+      "countryFlag": "🇲🇽",
+      "rank": 53,
+      "previousRank": 45,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
-      "rank": 54,
+      "rank": 55,
       "previousRank": 54,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
-      "rank": 88,
+      "rank": 91,
       "previousRank": 88,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

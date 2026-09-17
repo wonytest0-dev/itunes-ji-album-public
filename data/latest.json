@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:00:38.483Z",
+  "generatedAt": "2026-09-17T06:00:40.762Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -52,9 +52,9 @@
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
       "rank": 58,
-      "previousRank": 57,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 58,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -112,9 +112,9 @@
       "country": "Mexico",
       "countryFlag": "🇲🇽",
       "rank": 142,
-      "previousRank": 123,
-      "rankChange": "-19",
-      "rankDelta": -19,
+      "previousRank": 142,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:00:34.671Z",
+  "generatedAt": "2026-09-18T23:00:39.770Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -40,9 +40,9 @@
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
       "rank": 56,
-      "previousRank": 55,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 56,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
-      "rank": 116,
+      "rank": 121,
       "previousRank": 116,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

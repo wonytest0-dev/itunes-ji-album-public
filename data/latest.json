@@ -1,15 +1,45 @@
 {
-  "generatedAt": "2026-09-21T17:00:40.665Z",
+  "generatedAt": "2026-09-21T18:00:42.049Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 7,
+  "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
-  "newAlbumsDetected": [],
+  "newAlbumsDetected": [
+    {
+      "title": "MUSE (WONDER ver.)",
+      "firstCountrySeen": "Denmark",
+      "rank": 22
+    }
+  ],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "countryFlag": "🇩🇰",
+      "rank": 17,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE (WONDER ver.)",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "countryFlag": "🇩🇰",
+      "rank": 22,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
     {
       "title": "MUSE",
       "artist": "Jimin",
@@ -27,10 +57,10 @@
       "artist": "Jimin",
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
-      "rank": 51,
-      "previousRank": 50,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "rank": 53,
+      "previousRank": 51,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

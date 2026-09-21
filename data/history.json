@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-21T17:00:40.665Z",
+  "lastRunAt": "2026-09-21T18:00:42.049Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -49,7 +49,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Kyrgyzstan",
-      "lastRank": 51,
+      "lastRank": 53,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T10:46:50.550Z",
@@ -196,6 +196,28 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-19T03:00:36.466Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|denmark": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "lastRank": 17,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-21T18:00:42.049Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse (wonder ver.)|denmark": {
+      "title": "MUSE (WONDER ver.)",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "lastRank": 22,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-21T18:00:42.049Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

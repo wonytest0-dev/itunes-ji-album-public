@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-09-21T18:00:42.049Z",
+  "generatedAt": "2026-09-21T19:00:42.829Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
   "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
-  "newAlbumsDetected": [
-    {
-      "title": "MUSE (WONDER ver.)",
-      "firstCountrySeen": "Denmark",
-      "rank": 22
-    }
-  ],
+  "newAlbumsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
@@ -22,9 +16,9 @@
       "country": "Denmark",
       "countryFlag": "🇩🇰",
       "rank": 17,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 17,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -34,9 +28,9 @@
       "country": "Denmark",
       "countryFlag": "🇩🇰",
       "rank": 22,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 22,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -58,9 +52,9 @@
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
       "rank": 53,
-      "previousRank": 51,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

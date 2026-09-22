@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:00:39.498Z",
+  "generatedAt": "2026-09-22T21:00:37.267Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -59,18 +59,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Denmark",
-      "countryFlag": "🇩🇰",
-      "rank": 76,
-      "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Laos",
@@ -95,18 +83,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE (WONDER ver.)",
-      "artist": "Jimin",
-      "country": "Denmark",
-      "countryFlag": "🇩🇰",
-      "rank": 89,
-      "previousRank": 89,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Bahrain",
@@ -115,6 +91,30 @@
       "previousRank": 95,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "countryFlag": "🇩🇰",
+      "rank": 98,
+      "previousRank": 76,
+      "rankChange": "-22",
+      "rankDelta": -22,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE (WONDER ver.)",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "countryFlag": "🇩🇰",
+      "rank": 111,
+      "previousRank": 89,
+      "rankChange": "-22",
+      "rankDelta": -22,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

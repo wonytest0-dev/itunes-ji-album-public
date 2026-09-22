@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:00:39.436Z",
+  "generatedAt": "2026-09-22T10:00:38.259Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -11,18 +11,6 @@
   "stillNumberOne": [],
   "currentChart": [
     {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Denmark",
-      "countryFlag": "🇩🇰",
-      "rank": 40,
-      "previousRank": 40,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Kyrgyzstan",
@@ -31,6 +19,18 @@
       "previousRank": 45,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "countryFlag": "🇩🇰",
+      "rank": 46,
+      "previousRank": 40,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -47,18 +47,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE (WONDER ver.)",
-      "artist": "Jimin",
-      "country": "Denmark",
-      "countryFlag": "🇩🇰",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Micronesia",
@@ -67,6 +55,18 @@
       "previousRank": 55,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE (WONDER ver.)",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "countryFlag": "🇩🇰",
+      "rank": 59,
+      "previousRank": 53,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -124,9 +124,9 @@
       "country": "Japan",
       "countryFlag": "🇯🇵",
       "rank": 131,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 131,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

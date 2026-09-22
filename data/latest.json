@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:00:44.053Z",
+  "generatedAt": "2026-09-22T18:00:40.008Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -63,22 +63,10 @@
       "artist": "Jimin",
       "country": "Denmark",
       "countryFlag": "🇩🇰",
-      "rank": 65,
+      "rank": 76,
       "previousRank": 65,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE (WONDER ver.)",
-      "artist": "Jimin",
-      "country": "Denmark",
-      "countryFlag": "🇩🇰",
-      "rank": 78,
-      "previousRank": 78,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-11",
+      "rankDelta": -11,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -103,6 +91,18 @@
       "previousRank": 87,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE (WONDER ver.)",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "countryFlag": "🇩🇰",
+      "rank": 89,
+      "previousRank": 78,
+      "rankChange": "-11",
+      "rankDelta": -11,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

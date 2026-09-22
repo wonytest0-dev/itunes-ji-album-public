@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:00:46.007Z",
+  "generatedAt": "2026-09-22T16:00:43.175Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -37,18 +37,6 @@
     {
       "title": "FACE - EP",
       "artist": "Jimin",
-      "country": "Denmark",
-      "countryFlag": "🇩🇰",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
       "country": "Micronesia",
       "countryFlag": "🇫🇲",
       "rank": 55,
@@ -71,14 +59,26 @@
       "numberOneCount": 0
     },
     {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Denmark",
+      "countryFlag": "🇩🇰",
+      "rank": 65,
+      "previousRank": 53,
+      "rankChange": "-12",
+      "rankDelta": -12,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "MUSE (WONDER ver.)",
       "artist": "Jimin",
       "country": "Denmark",
       "countryFlag": "🇩🇰",
-      "rank": 66,
+      "rank": 78,
       "previousRank": 66,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-12",
+      "rankDelta": -12,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -124,9 +124,9 @@
       "country": "Japan",
       "countryFlag": "🇯🇵",
       "rank": 200,
-      "previousRank": 165,
-      "rankChange": "-35",
-      "rankDelta": -35,
+      "previousRank": 200,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

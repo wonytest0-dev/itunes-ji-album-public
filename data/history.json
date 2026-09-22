@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-22T08:00:42.170Z",
+  "lastRunAt": "2026-09-22T09:00:39.436Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -218,6 +218,17 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-21T18:00:42.049Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|japan": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Japan",
+      "lastRank": 131,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-22T09:00:39.436Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

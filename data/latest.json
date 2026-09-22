@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T08:00:42.170Z",
+  "generatedAt": "2026-09-22T09:00:39.436Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 9,
+  "jiminEntriesFound": 10,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -16,9 +16,9 @@
       "country": "Denmark",
       "countryFlag": "🇩🇰",
       "rank": 40,
-      "previousRank": 38,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 40,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -52,9 +52,9 @@
       "country": "Denmark",
       "countryFlag": "🇩🇰",
       "rank": 53,
-      "previousRank": 51,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -115,6 +115,18 @@
       "previousRank": 95,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Japan",
+      "countryFlag": "🇯🇵",
+      "rank": 131,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

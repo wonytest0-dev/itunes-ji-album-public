@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T09:00:36.568Z",
+  "generatedAt": "2026-09-23T10:00:39.161Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Denmark",
       "countryFlag": "🇩🇰",
-      "rank": 140,
+      "rank": 141,
       "previousRank": 140,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -111,10 +111,10 @@
       "artist": "Jimin",
       "country": "Denmark",
       "countryFlag": "🇩🇰",
-      "rank": 153,
+      "rank": 154,
       "previousRank": 153,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

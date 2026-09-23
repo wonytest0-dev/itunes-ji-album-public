@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T16:00:40.576Z",
+  "generatedAt": "2026-09-23T17:00:40.758Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 9,
+  "jiminEntriesFound": 8,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -99,22 +99,10 @@
       "artist": "Jimin",
       "country": "Denmark",
       "countryFlag": "🇩🇰",
-      "rank": 168,
+      "rank": 190,
       "previousRank": 168,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE (WONDER ver.)",
-      "artist": "Jimin",
-      "country": "Denmark",
-      "countryFlag": "🇩🇰",
-      "rank": 181,
-      "previousRank": 181,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-22",
+      "rankDelta": -22,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

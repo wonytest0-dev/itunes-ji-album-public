@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:00:36.556Z",
+  "generatedAt": "2026-09-23T04:00:39.213Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Denmark",
       "countryFlag": "🇩🇰",
       "rank": 138,
-      "previousRank": 135,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 138,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -112,9 +112,9 @@
       "country": "Denmark",
       "countryFlag": "🇩🇰",
       "rank": 151,
-      "previousRank": 148,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 151,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

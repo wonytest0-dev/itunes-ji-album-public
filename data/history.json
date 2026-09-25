@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-25T06:00:38.544Z",
+  "lastRunAt": "2026-09-25T07:00:38.605Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -126,7 +126,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Taiwan",
-      "lastRank": 78,
+      "lastRank": 88,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-08T21:00:40.445Z",
@@ -229,6 +229,28 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-22T09:00:39.436Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|spain": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Spain",
+      "lastRank": 100,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-25T07:00:38.605Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|spain": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Spain",
+      "lastRank": 101,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-25T07:00:38.605Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

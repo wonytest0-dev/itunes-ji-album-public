@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T16:00:40.216Z",
+  "generatedAt": "2026-09-26T17:00:38.542Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 9,
+  "jiminEntriesFound": 8,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -99,22 +99,10 @@
       "artist": "Jimin",
       "country": "Spain",
       "countryFlag": "🇪🇸",
-      "rank": 156,
+      "rank": 181,
       "previousRank": 156,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Spain",
-      "countryFlag": "🇪🇸",
-      "rank": 177,
-      "previousRank": 177,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-25",
+      "rankDelta": -25,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

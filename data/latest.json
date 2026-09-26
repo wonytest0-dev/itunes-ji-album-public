@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T06:00:35.614Z",
+  "generatedAt": "2026-09-26T07:00:37.060Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Spain",
       "countryFlag": "🇪🇸",
       "rank": 100,
-      "previousRank": 94,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "previousRank": 100,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:00:44.360Z",
+  "generatedAt": "2026-09-29T17:00:43.566Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -16,9 +16,9 @@
       "country": "Poland",
       "countryFlag": "🇵🇱",
       "rank": 8,
-      "previousRank": 7,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 8,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -124,9 +124,9 @@
       "country": "France",
       "countryFlag": "🇫🇷",
       "rank": 99,
-      "previousRank": 82,
-      "rankChange": "-17",
-      "rankDelta": -17,
+      "previousRank": 99,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

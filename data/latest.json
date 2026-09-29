@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T04:00:35.458Z",
+  "generatedAt": "2026-09-29T05:00:38.757Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 7,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -91,18 +91,6 @@
       "previousRank": 97,
       "rankChange": "=",
       "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Canada",
-      "countryFlag": "🇨🇦",
-      "rank": 123,
-      "previousRank": 107,
-      "rankChange": "-16",
-      "rankDelta": -16,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

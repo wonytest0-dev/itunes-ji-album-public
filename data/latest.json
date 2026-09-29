@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T08:00:35.353Z",
+  "generatedAt": "2026-09-29T09:00:36.768Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -16,9 +16,9 @@
       "country": "France",
       "countryFlag": "🇫🇷",
       "rank": 25,
-      "previousRank": 103,
-      "rankChange": "+78",
-      "rankDelta": 78,
+      "previousRank": 25,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

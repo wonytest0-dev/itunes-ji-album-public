@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:00:40.118Z",
+  "generatedAt": "2026-09-29T01:00:39.576Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Canada",
       "countryFlag": "🇨🇦",
       "rank": 102,
-      "previousRank": 115,
-      "rankChange": "+13",
-      "rankDelta": 13,
+      "previousRank": 102,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

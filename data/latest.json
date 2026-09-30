@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T20:00:43.875Z",
+  "generatedAt": "2026-09-30T21:00:36.985Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -47,18 +47,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE (WONDER ver.)",
-      "artist": "Jimin",
-      "country": "Poland",
-      "countryFlag": "🇵🇱",
-      "rank": 60,
-      "previousRank": 44,
-      "rankChange": "-16",
-      "rankDelta": -16,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Nepal",
@@ -67,6 +55,18 @@
       "previousRank": 62,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE (WONDER ver.)",
+      "artist": "Jimin",
+      "country": "Poland",
+      "countryFlag": "🇵🇱",
+      "rank": 77,
+      "previousRank": 60,
+      "rankChange": "-17",
+      "rankDelta": -17,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Bahrain",
       "countryFlag": "🇧🇭",
-      "rank": 97,
-      "previousRank": 96,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "rank": 96,
+      "previousRank": 97,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -111,10 +111,10 @@
       "artist": "Jimin",
       "country": "Spain",
       "countryFlag": "🇪🇸",
-      "rank": 149,
+      "rank": 185,
       "previousRank": 149,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-36",
+      "rankDelta": -36,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

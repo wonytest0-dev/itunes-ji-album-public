@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T03:00:36.686Z",
+  "generatedAt": "2026-10-01T04:00:34.182Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -28,9 +28,9 @@
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
       "rank": 48,
-      "previousRank": 51,
-      "rankChange": "+3",
-      "rankDelta": 3,
+      "previousRank": 48,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -88,9 +88,9 @@
       "country": "Bahrain",
       "countryFlag": "🇧🇭",
       "rank": 95,
-      "previousRank": 96,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 95,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Poland",
       "countryFlag": "🇵🇱",
-      "rank": 103,
-      "previousRank": 81,
-      "rankChange": "-22",
-      "rankDelta": -22,
+      "rank": 107,
+      "previousRank": 103,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

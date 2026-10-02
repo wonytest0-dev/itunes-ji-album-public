@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:00:39.242Z",
+  "generatedAt": "2026-10-02T17:00:40.784Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Poland",
       "countryFlag": "🇵🇱",
       "rank": 194,
-      "previousRank": 190,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 194,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

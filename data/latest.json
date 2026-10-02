@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:00:38.840Z",
+  "generatedAt": "2026-10-02T08:00:35.380Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Belgium",
       "countryFlag": "🇧🇪",
-      "rank": 122,
+      "rank": 124,
       "previousRank": 122,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

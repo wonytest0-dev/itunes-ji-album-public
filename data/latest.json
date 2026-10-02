@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T00:00:37.312Z",
+  "generatedAt": "2026-10-02T01:00:37.022Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -95,14 +95,26 @@
       "numberOneCount": 0
     },
     {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Belgium",
+      "countryFlag": "🇧🇪",
+      "rank": 122,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "MUSE (WONDER ver.)",
       "artist": "Jimin",
       "country": "Poland",
       "countryFlag": "🇵🇱",
-      "rank": 148,
+      "rank": 166,
       "previousRank": 148,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-18",
+      "rankDelta": -18,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

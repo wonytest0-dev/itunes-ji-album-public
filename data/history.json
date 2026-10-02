@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-02T00:00:37.312Z",
+  "lastRunAt": "2026-10-02T01:00:37.022Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -280,10 +280,21 @@
       "title": "MUSE (WONDER ver.)",
       "artist": "Jimin",
       "country": "Poland",
-      "lastRank": 148,
+      "lastRank": 166,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-29T10:00:38.475Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|belgium": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Belgium",
+      "lastRank": 122,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-02T01:00:37.022Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

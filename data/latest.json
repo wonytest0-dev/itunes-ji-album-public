@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T14:00:40.822Z",
+  "generatedAt": "2026-10-02T15:00:41.816Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 9,
+  "jiminEntriesFound": 8,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -100,21 +100,9 @@
       "country": "Poland",
       "countryFlag": "🇵🇱",
       "rank": 190,
-      "previousRank": 185,
-      "rankChange": "-5",
-      "rankDelta": -5,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Belgium",
-      "countryFlag": "🇧🇪",
-      "rank": 197,
-      "previousRank": 198,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 190,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

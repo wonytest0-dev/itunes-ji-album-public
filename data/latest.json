@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:00:38.031Z",
+  "generatedAt": "2026-10-02T11:00:37.236Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Belgium",
       "countryFlag": "🇧🇪",
       "rank": 127,
-      "previousRank": 124,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 127,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T05:00:36.517Z",
+  "generatedAt": "2026-10-04T06:00:37.536Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -35,18 +35,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Taiwan",
-      "countryFlag": "🇹🇼",
-      "rank": 52,
-      "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Micronesia",
@@ -55,6 +43,18 @@
       "previousRank": 55,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Taiwan",
+      "countryFlag": "🇹🇼",
+      "rank": 60,
+      "previousRank": 52,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

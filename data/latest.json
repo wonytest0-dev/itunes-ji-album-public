@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T16:00:36.812Z",
+  "generatedAt": "2026-10-04T17:00:34.625Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -15,10 +15,10 @@
       "artist": "Jimin",
       "country": "Turkey",
       "countryFlag": "🇹🇷",
-      "rank": 10,
+      "rank": 11,
       "previousRank": 10,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -71,30 +71,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Turkey",
-      "countryFlag": "🇹🇷",
-      "rank": 73,
-      "previousRank": 73,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "France",
-      "countryFlag": "🇫🇷",
-      "rank": 79,
-      "previousRank": 79,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Laos",
@@ -109,12 +85,36 @@
     {
       "title": "FACE - EP",
       "artist": "Jimin",
+      "country": "Turkey",
+      "countryFlag": "🇹🇷",
+      "rank": 85,
+      "previousRank": 73,
+      "rankChange": "-12",
+      "rankDelta": -12,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
       "country": "Laos",
       "countryFlag": "🇱🇦",
       "rank": 87,
       "previousRank": 87,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "France",
+      "countryFlag": "🇫🇷",
+      "rank": 95,
+      "previousRank": 79,
+      "rankChange": "-16",
+      "rankDelta": -16,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

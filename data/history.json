@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-05T11:00:39.729Z",
+  "lastRunAt": "2026-10-05T12:00:41.208Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -302,7 +302,7 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Turkey",
-      "lastRank": 186,
+      "lastRank": null,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-04T08:00:37.428Z",
@@ -313,7 +313,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Turkey",
-      "lastRank": 66,
+      "lastRank": 93,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-04T10:00:36.496Z",

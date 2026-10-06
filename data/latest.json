@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:00:37.861Z",
+  "generatedAt": "2026-10-06T11:00:40.230Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -83,18 +83,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Turkey",
-      "countryFlag": "🇹🇷",
-      "rank": 89,
-      "previousRank": 67,
-      "rankChange": "-22",
-      "rankDelta": -22,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Bahrain",
@@ -103,6 +91,18 @@
       "previousRank": 97,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Turkey",
+      "countryFlag": "🇹🇷",
+      "rank": 103,
+      "previousRank": 89,
+      "rankChange": "-14",
+      "rankDelta": -14,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

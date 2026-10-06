@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T05:00:37.940Z",
+  "generatedAt": "2026-10-06T06:00:34.277Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -10,18 +10,6 @@
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Turkey",
-      "countryFlag": "🇹🇷",
-      "rank": 45,
-      "previousRank": 45,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
     {
       "title": "MUSE",
       "artist": "Jimin",
@@ -55,6 +43,18 @@
       "previousRank": 55,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Turkey",
+      "countryFlag": "🇹🇷",
+      "rank": 57,
+      "previousRank": 45,
+      "rankChange": "-12",
+      "rankDelta": -12,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

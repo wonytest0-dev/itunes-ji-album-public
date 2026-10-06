@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T13:00:39.476Z",
+  "generatedAt": "2026-10-06T14:00:41.567Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Turkey",
       "countryFlag": "🇹🇷",
       "rank": 135,
-      "previousRank": 103,
-      "rankChange": "-32",
-      "rankDelta": -32,
+      "previousRank": 135,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

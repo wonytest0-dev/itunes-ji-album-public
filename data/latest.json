@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T14:00:41.567Z",
+  "generatedAt": "2026-10-06T15:00:40.658Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Turkey",
       "countryFlag": "🇹🇷",
-      "rank": 135,
+      "rank": 194,
       "previousRank": 135,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-59",
+      "rankDelta": -59,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

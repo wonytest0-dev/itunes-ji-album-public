@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:00:36.291Z",
+  "generatedAt": "2026-10-10T13:00:33.753Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -63,10 +63,10 @@
       "artist": "Jimin",
       "country": "Laos",
       "countryFlag": "🇱🇦",
-      "rank": 90,
+      "rank": 89,
       "previousRank": 90,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -87,10 +87,10 @@
       "artist": "Jimin",
       "country": "Laos",
       "countryFlag": "🇱🇦",
-      "rank": 92,
+      "rank": 91,
       "previousRank": 92,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

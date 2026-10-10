@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T13:00:33.753Z",
+  "generatedAt": "2026-10-10T14:00:35.245Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -64,9 +64,9 @@
       "country": "Laos",
       "countryFlag": "🇱🇦",
       "rank": 89,
-      "previousRank": 90,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 89,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -88,9 +88,9 @@
       "country": "Laos",
       "countryFlag": "🇱🇦",
       "rank": 91,
-      "previousRank": 92,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 91,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

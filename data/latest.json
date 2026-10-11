@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-10-10T23:00:34.203Z",
+  "generatedAt": "2026-10-11T00:00:35.073Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 7,
+  "jiminEntriesFound": 8,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Russia",
+      "countryFlag": "🇷🇺",
+      "rank": 37,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
     {
       "title": "MUSE",
       "artist": "Jimin",
@@ -28,9 +40,9 @@
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
       "rank": 48,
-      "previousRank": 47,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 48,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

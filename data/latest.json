@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T03:00:37.397Z",
+  "generatedAt": "2026-10-11T04:00:37.527Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -40,9 +40,9 @@
       "country": "Russia",
       "countryFlag": "🇷🇺",
       "rank": 48,
-      "previousRank": 46,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 48,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T10:00:35.971Z",
+  "generatedAt": "2026-10-11T11:00:34.654Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -103,6 +103,18 @@
       "previousRank": 91,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Japan",
+      "countryFlag": "🇯🇵",
+      "rank": 198,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

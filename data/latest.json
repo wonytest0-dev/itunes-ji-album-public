@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:00:42.486Z",
+  "generatedAt": "2026-10-12T12:00:41.582Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -16,9 +16,9 @@
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
       "rank": 47,
-      "previousRank": 45,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 47,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -100,9 +100,9 @@
       "country": "Russia",
       "countryFlag": "🇷🇺",
       "rank": 95,
-      "previousRank": 88,
-      "rankChange": "-7",
-      "rankDelta": -7,
+      "previousRank": 95,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

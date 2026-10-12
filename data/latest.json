@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T03:00:36.150Z",
+  "generatedAt": "2026-10-12T04:00:33.853Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -63,10 +63,10 @@
       "artist": "Jimin",
       "country": "Russia",
       "countryFlag": "🇷🇺",
-      "rank": 78,
+      "rank": 80,
       "previousRank": 78,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

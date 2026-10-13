@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-13T07:00:36.732Z",
+  "lastRunAt": "2026-10-13T08:00:35.803Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -339,6 +339,17 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-11T00:00:35.073Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|sweden": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Sweden",
+      "lastRank": 198,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-13T08:00:35.803Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

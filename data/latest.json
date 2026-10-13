@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:00:35.803Z",
+  "generatedAt": "2026-10-13T09:00:39.244Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Sweden",
       "countryFlag": "🇸🇪",
       "rank": 198,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 198,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

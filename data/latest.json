@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T06:00:41.806Z",
+  "generatedAt": "2026-10-14T07:00:35.598Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -10,6 +10,18 @@
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Brazil",
+      "countryFlag": "🇧🇷",
+      "rank": 4,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
     {
       "title": "MUSE",
       "artist": "Jimin",
@@ -89,18 +101,6 @@
       "countryFlag": "🇱🇦",
       "rank": 91,
       "previousRank": 91,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Japan",
-      "countryFlag": "🇯🇵",
-      "rank": 200,
-      "previousRank": 200,
       "rankChange": "=",
       "rankDelta": 0,
       "everHitNumberOne": false,

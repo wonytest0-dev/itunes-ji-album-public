@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:00:35.598Z",
+  "generatedAt": "2026-10-14T08:00:37.735Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -16,9 +16,9 @@
       "country": "Brazil",
       "countryFlag": "🇧🇷",
       "rank": 4,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 4,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

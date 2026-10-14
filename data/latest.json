@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:00:34.877Z",
+  "generatedAt": "2026-10-14T05:00:35.847Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Japan",
       "countryFlag": "🇯🇵",
-      "rank": 157,
+      "rank": 200,
       "previousRank": 157,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-43",
+      "rankDelta": -43,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

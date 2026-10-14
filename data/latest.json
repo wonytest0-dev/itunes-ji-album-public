@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:00:35.750Z",
+  "generatedAt": "2026-10-14T22:00:40.826Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -13,18 +13,6 @@
     {
       "title": "FACE - EP",
       "artist": "Jimin",
-      "country": "Kazakhstan",
-      "countryFlag": "🇰🇿",
-      "rank": 7,
-      "previousRank": 7,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
       "country": "Brazil",
       "countryFlag": "🇧🇷",
       "rank": 8,
@@ -35,14 +23,26 @@
       "numberOneCount": 0
     },
     {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Kazakhstan",
+      "countryFlag": "🇰🇿",
+      "rank": 8,
+      "previousRank": 7,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "MUSE (WONDER ver.)",
       "artist": "Jimin",
       "country": "Kazakhstan",
       "countryFlag": "🇰🇿",
-      "rank": 9,
+      "rank": 10,
       "previousRank": 9,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -52,9 +52,9 @@
       "country": "Thailand",
       "countryFlag": "🇹🇭",
       "rank": 30,
-      "previousRank": 28,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 30,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -147,10 +147,10 @@
       "artist": "Jimin",
       "country": "Turkey",
       "countryFlag": "🇹🇷",
-      "rank": 137,
+      "rank": 155,
       "previousRank": 137,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-18",
+      "rankDelta": -18,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

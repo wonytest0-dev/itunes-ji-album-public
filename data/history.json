@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-14T17:00:37.859Z",
+  "lastRunAt": "2026-10-14T18:00:39.725Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -357,10 +357,32 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Brazil",
-      "lastRank": 5,
+      "lastRank": 6,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-14T07:00:35.598Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|kazakhstan": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Kazakhstan",
+      "lastRank": 7,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-14T18:00:39.725Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse (wonder ver.)|kazakhstan": {
+      "title": "MUSE (WONDER ver.)",
+      "artist": "Jimin",
+      "country": "Kazakhstan",
+      "lastRank": 9,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-14T18:00:39.725Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

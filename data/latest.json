@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T18:00:39.725Z",
+  "generatedAt": "2026-10-14T19:00:40.835Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 10,
+  "jiminEntriesFound": 12,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -16,9 +16,9 @@
       "country": "Brazil",
       "countryFlag": "🇧🇷",
       "rank": 6,
-      "previousRank": 5,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 6,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -28,9 +28,9 @@
       "country": "Kazakhstan",
       "countryFlag": "🇰🇿",
       "rank": 7,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 7,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -40,8 +40,20 @@
       "country": "Kazakhstan",
       "countryFlag": "🇰🇿",
       "rank": 9,
+      "previousRank": 9,
+      "rankChange": "=",
+      "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Thailand",
+      "countryFlag": "🇹🇭",
+      "rank": 28,
       "previousRank": null,
-      "rankChange": "NEW",
+      "rankChange": "RE",
       "rankDelta": null,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -127,6 +139,18 @@
       "previousRank": 91,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Turkey",
+      "countryFlag": "🇹🇷",
+      "rank": 137,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

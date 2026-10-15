@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:00:38.656Z",
+  "generatedAt": "2026-10-15T01:00:36.124Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -75,10 +75,10 @@
       "artist": "Jimin",
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
-      "rank": 53,
+      "rank": 52,
       "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -107,24 +107,24 @@
       "numberOneCount": 0
     },
     {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Bahrain",
+      "countryFlag": "🇧🇭",
+      "rank": 89,
+      "previousRank": 90,
+      "rankChange": "+1",
+      "rankDelta": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Laos",
       "countryFlag": "🇱🇦",
       "rank": 89,
       "previousRank": 89,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Bahrain",
-      "countryFlag": "🇧🇭",
-      "rank": 90,
-      "previousRank": 90,
       "rankChange": "=",
       "rankDelta": 0,
       "everHitNumberOne": false,
@@ -148,9 +148,9 @@
       "country": "Turkey",
       "countryFlag": "🇹🇷",
       "rank": 169,
-      "previousRank": 155,
-      "rankChange": "-14",
-      "rankDelta": -14,
+      "previousRank": 169,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

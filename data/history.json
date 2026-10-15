@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-15T08:00:38.509Z",
+  "lastRunAt": "2026-10-15T09:00:35.549Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -302,7 +302,7 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Turkey",
-      "lastRank": 200,
+      "lastRank": null,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-04T08:00:37.428Z",
@@ -368,7 +368,7 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Kazakhstan",
-      "lastRank": 7,
+      "lastRank": 9,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-14T18:00:39.725Z",
@@ -379,7 +379,7 @@
       "title": "MUSE (WONDER ver.)",
       "artist": "Jimin",
       "country": "Kazakhstan",
-      "lastRank": 9,
+      "lastRank": 11,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-14T18:00:39.725Z",

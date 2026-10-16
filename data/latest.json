@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T19:00:41.860Z",
+  "generatedAt": "2026-10-16T20:00:35.958Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -39,22 +39,10 @@
       "artist": "Jimin",
       "country": "Taiwan",
       "countryFlag": "🇹🇼",
-      "rank": 30,
+      "rank": 35,
       "previousRank": 30,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Kazakhstan",
-      "countryFlag": "🇰🇿",
-      "rank": 47,
-      "previousRank": 47,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -71,18 +59,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE (WONDER ver.)",
-      "artist": "Jimin",
-      "country": "Kazakhstan",
-      "countryFlag": "🇰🇿",
-      "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Kyrgyzstan",
@@ -91,6 +67,30 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Kazakhstan",
+      "countryFlag": "🇰🇿",
+      "rank": 53,
+      "previousRank": 47,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE (WONDER ver.)",
+      "artist": "Jimin",
+      "country": "Kazakhstan",
+      "countryFlag": "🇰🇿",
+      "rank": 55,
+      "previousRank": 49,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -160,9 +160,9 @@
       "country": "Brazil",
       "countryFlag": "🇧🇷",
       "rank": 197,
-      "previousRank": 172,
-      "rankChange": "-25",
-      "rankDelta": -25,
+      "previousRank": 197,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:00:36.916Z",
+  "generatedAt": "2026-10-17T00:00:36.893Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -39,10 +39,10 @@
       "artist": "Jimin",
       "country": "Taiwan",
       "countryFlag": "🇹🇼",
-      "rank": 38,
+      "rank": 40,
       "previousRank": 38,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

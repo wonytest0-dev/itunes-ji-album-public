@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-18T12:00:34.856Z",
+  "lastRunAt": "2026-10-18T13:00:37.791Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -159,7 +159,7 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Vietnam",
-      "lastRank": 69,
+      "lastRank": 73,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-15T21:00:40.254Z",
@@ -247,7 +247,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Spain",
-      "lastRank": 19,
+      "lastRank": 30,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-25T07:00:38.605Z",
@@ -368,7 +368,7 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Kazakhstan",
-      "lastRank": 80,
+      "lastRank": 82,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-14T18:00:39.725Z",
@@ -379,7 +379,7 @@
       "title": "MUSE (WONDER ver.)",
       "artist": "Jimin",
       "country": "Kazakhstan",
-      "lastRank": 82,
+      "lastRank": 84,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-14T18:00:39.725Z",
@@ -394,6 +394,28 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-17T23:00:36.985Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|poland": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Poland",
+      "lastRank": 102,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-18T13:00:37.791Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|poland": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Poland",
+      "lastRank": 103,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-18T13:00:37.791Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

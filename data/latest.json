@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:00:33.961Z",
+  "generatedAt": "2026-10-18T05:00:37.412Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -64,19 +64,7 @@
       "country": "Taiwan",
       "countryFlag": "🇹🇼",
       "rank": 51,
-      "previousRank": 48,
-      "rankChange": "-3",
-      "rankDelta": -3,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Vietnam",
-      "countryFlag": "🇻🇳",
-      "rank": 54,
-      "previousRank": 54,
+      "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
       "everHitNumberOne": false,
@@ -91,6 +79,18 @@
       "previousRank": 55,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Vietnam",
+      "countryFlag": "🇻🇳",
+      "rank": 55,
+      "previousRank": 54,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -136,9 +136,9 @@
       "country": "Bahrain",
       "countryFlag": "🇧🇭",
       "rank": 89,
-      "previousRank": 88,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 89,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -171,10 +171,10 @@
       "artist": "Jimin",
       "country": "Thailand",
       "countryFlag": "🇹🇭",
-      "rank": 102,
+      "rank": 104,
       "previousRank": 102,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

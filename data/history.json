@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-19T08:00:35.684Z",
+  "lastRunAt": "2026-10-19T09:00:36.970Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -115,7 +115,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Russia",
-      "lastRank": 191,
+      "lastRank": null,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-06T14:00:34.325Z",
@@ -159,7 +159,7 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Vietnam",
-      "lastRank": 97,
+      "lastRank": 102,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-15T21:00:40.254Z",
@@ -247,7 +247,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Spain",
-      "lastRank": 122,
+      "lastRank": 130,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-25T07:00:38.605Z",
@@ -335,7 +335,7 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Russia",
-      "lastRank": 18,
+      "lastRank": 38,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-11T00:00:35.073Z",
@@ -416,6 +416,17 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-18T13:00:37.791Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|italy": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Italy",
+      "lastRank": 17,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-19T09:00:36.970Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

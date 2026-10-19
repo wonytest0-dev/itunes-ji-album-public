@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:00:42.394Z",
+  "generatedAt": "2026-10-19T23:00:39.786Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -61,18 +61,6 @@
     {
       "title": "FACE - EP",
       "artist": "Jimin",
-      "country": "Poland",
-      "countryFlag": "🇵🇱",
-      "rank": 85,
-      "previousRank": 69,
-      "rankChange": "-16",
-      "rankDelta": -16,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
       "country": "Bahrain",
       "countryFlag": "🇧🇭",
       "rank": 88,
@@ -107,14 +95,26 @@
       "numberOneCount": 0
     },
     {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Poland",
+      "countryFlag": "🇵🇱",
+      "rank": 96,
+      "previousRank": 85,
+      "rankChange": "-11",
+      "rankDelta": -11,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Poland",
       "countryFlag": "🇵🇱",
-      "rank": 97,
-      "previousRank": 81,
-      "rankChange": "-16",
-      "rankDelta": -16,
+      "rank": 108,
+      "previousRank": 97,
+      "rankChange": "-11",
+      "rankDelta": -11,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -123,10 +123,10 @@
       "artist": "Jimin",
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
-      "rank": 126,
+      "rank": 129,
       "previousRank": 126,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -135,10 +135,10 @@
       "artist": "Jimin",
       "country": "Italy",
       "countryFlag": "🇮🇹",
-      "rank": 128,
+      "rank": 140,
       "previousRank": 128,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-12",
+      "rankDelta": -12,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -147,10 +147,10 @@
       "artist": "Jimin",
       "country": "Russia",
       "countryFlag": "🇷🇺",
-      "rank": 161,
+      "rank": 186,
       "previousRank": 161,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-25",
+      "rankDelta": -25,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

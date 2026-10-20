@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:00:41.720Z",
+  "generatedAt": "2026-10-20T23:00:37.514Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -35,18 +35,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE (WANDER ver.)",
-      "artist": "Jimin",
-      "country": "Mexico",
-      "countryFlag": "🇲🇽",
-      "rank": 52,
-      "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Micronesia",
@@ -55,6 +43,18 @@
       "previousRank": 54,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE (WANDER ver.)",
+      "artist": "Jimin",
+      "country": "Mexico",
+      "countryFlag": "🇲🇽",
+      "rank": 55,
+      "previousRank": 52,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

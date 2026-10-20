@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-20T10:00:39.165Z",
+  "generatedAt": "2026-10-20T11:00:37.120Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
   "jiminEntriesFound": 11,
   "totalNumberOneCountriesCurrent": 0,
-  "newAlbumsDetected": [],
+  "newAlbumsDetected": [
+    {
+      "title": "MUSE (WANDER ver.)",
+      "firstCountrySeen": "Mexico",
+      "rank": 101
+    }
+  ],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
@@ -95,14 +101,26 @@
       "numberOneCount": 0
     },
     {
+      "title": "MUSE (WANDER ver.)",
+      "artist": "Jimin",
+      "country": "Mexico",
+      "countryFlag": "🇲🇽",
+      "rank": 101,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Poland",
       "countryFlag": "🇵🇱",
       "rank": 116,
-      "previousRank": 115,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 116,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -112,9 +130,9 @@
       "country": "Poland",
       "countryFlag": "🇵🇱",
       "rank": 128,
-      "previousRank": 127,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 128,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -124,21 +142,9 @@
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
       "rank": 140,
-      "previousRank": 133,
-      "rankChange": "-7",
-      "rankDelta": -7,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Italy",
-      "countryFlag": "🇮🇹",
-      "rank": 185,
-      "previousRank": 186,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 140,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

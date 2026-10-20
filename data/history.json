@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-20T10:00:39.165Z",
+  "lastRunAt": "2026-10-20T11:00:37.120Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -423,10 +423,21 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Italy",
-      "lastRank": 185,
+      "lastRank": null,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-19T09:00:36.970Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse (wander ver.)|mexico": {
+      "title": "MUSE (WANDER ver.)",
+      "artist": "Jimin",
+      "country": "Mexico",
+      "lastRank": 101,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-20T11:00:37.120Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

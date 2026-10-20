@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:00:35.508Z",
+  "generatedAt": "2026-10-20T05:00:37.734Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Poland",
       "countryFlag": "🇵🇱",
-      "rank": 113,
+      "rank": 115,
       "previousRank": 113,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -111,10 +111,10 @@
       "artist": "Jimin",
       "country": "Poland",
       "countryFlag": "🇵🇱",
-      "rank": 125,
+      "rank": 127,
       "previousRank": 125,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -135,10 +135,10 @@
       "artist": "Jimin",
       "country": "Italy",
       "countryFlag": "🇮🇹",
-      "rank": 163,
+      "rank": 166,
       "previousRank": 163,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

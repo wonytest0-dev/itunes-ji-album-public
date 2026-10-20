@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-10-20T11:00:37.120Z",
+  "generatedAt": "2026-10-20T12:00:45.118Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
   "jiminEntriesFound": 11,
   "totalNumberOneCountriesCurrent": 0,
-  "newAlbumsDetected": [
-    {
-      "title": "MUSE (WANDER ver.)",
-      "firstCountrySeen": "Mexico",
-      "rank": 101
-    }
-  ],
+  "newAlbumsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "MUSE (WANDER ver.)",
+      "artist": "Jimin",
+      "country": "Mexico",
+      "countryFlag": "🇲🇽",
+      "rank": 35,
+      "previousRank": 101,
+      "rankChange": "+66",
+      "rankDelta": 66,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
     {
       "title": "MUSE",
       "artist": "Jimin",
@@ -101,26 +107,14 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE (WANDER ver.)",
-      "artist": "Jimin",
-      "country": "Mexico",
-      "countryFlag": "🇲🇽",
-      "rank": 101,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Poland",
       "countryFlag": "🇵🇱",
-      "rank": 116,
+      "rank": 115,
       "previousRank": 116,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -141,10 +135,10 @@
       "artist": "Jimin",
       "country": "Vietnam",
       "countryFlag": "🇻🇳",
-      "rank": 140,
+      "rank": 145,
       "previousRank": 140,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

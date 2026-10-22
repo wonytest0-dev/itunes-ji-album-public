@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:00:39.233Z",
+  "generatedAt": "2026-10-22T09:00:38.547Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Switzerland",
       "countryFlag": "🇨🇭",
       "rank": 196,
-      "previousRank": 193,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 196,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

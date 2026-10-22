@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-22T02:00:37.675Z",
+  "lastRunAt": "2026-10-22T03:01:47.985Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -445,7 +445,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Italy",
-      "lastRank": 175,
+      "lastRank": null,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-21T23:00:40.029Z",

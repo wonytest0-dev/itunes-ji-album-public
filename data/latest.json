@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:00:40.715Z",
+  "generatedAt": "2026-10-23T18:00:42.828Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -15,10 +15,10 @@
       "artist": "Jimin",
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
-      "rank": 42,
+      "rank": 43,
       "previousRank": 42,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

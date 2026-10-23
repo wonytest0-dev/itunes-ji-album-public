@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:00:40.283Z",
+  "generatedAt": "2026-10-23T20:00:38.560Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -51,10 +51,10 @@
       "artist": "Jimin",
       "country": "Nepal",
       "countryFlag": "🇳🇵",
-      "rank": 62,
+      "rank": 63,
       "previousRank": 62,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

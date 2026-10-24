@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-10-24T21:00:35.684Z",
+  "generatedAt": "2026-10-24T22:00:36.785Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
   "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
-  "newAlbumsDetected": [
-    {
-      "title": "K(NOW)n Piano",
-      "firstCountrySeen": "Russia",
-      "rank": 128
-    }
-  ],
+  "newAlbumsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
@@ -22,9 +16,9 @@
       "country": "Hong Kong",
       "countryFlag": "🇭🇰",
       "rank": 32,
-      "previousRank": 28,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 32,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -118,9 +112,9 @@
       "country": "Russia",
       "countryFlag": "🇷🇺",
       "rank": 128,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 128,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

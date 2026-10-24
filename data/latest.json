@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-24T20:00:42.760Z",
+  "generatedAt": "2026-10-24T21:00:35.684Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
-  "newAlbumsDetected": [],
+  "newAlbumsDetected": [
+    {
+      "title": "K(NOW)n Piano",
+      "firstCountrySeen": "Russia",
+      "rank": 128
+    }
+  ],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
@@ -15,8 +21,8 @@
       "artist": "Jimin",
       "country": "Hong Kong",
       "countryFlag": "🇭🇰",
-      "rank": 28,
-      "previousRank": 24,
+      "rank": 32,
+      "previousRank": 28,
       "rankChange": "-4",
       "rankDelta": -4,
       "everHitNumberOne": false,
@@ -28,9 +34,9 @@
       "country": "Kyrgyzstan",
       "countryFlag": "🇰🇬",
       "rank": 46,
-      "previousRank": 45,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -103,6 +109,18 @@
       "previousRank": 89,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "K(NOW)n Piano",
+      "artist": "Jimin Oh-Havenith",
+      "country": "Russia",
+      "countryFlag": "🇷🇺",
+      "rank": 128,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

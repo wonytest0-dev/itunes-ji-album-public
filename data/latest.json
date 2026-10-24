@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:00:36.785Z",
+  "generatedAt": "2026-10-24T23:00:36.612Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -111,10 +111,10 @@
       "artist": "Jimin Oh-Havenith",
       "country": "Russia",
       "countryFlag": "🇷🇺",
-      "rank": 128,
+      "rank": 157,
       "previousRank": 128,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-29",
+      "rankDelta": -29,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T20:00:38.014Z",
+  "generatedAt": "2026-10-25T21:00:36.034Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 9,
+  "jiminEntriesFound": 8,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -99,22 +99,10 @@
       "artist": "Jimin",
       "country": "Hong Kong",
       "countryFlag": "🇭🇰",
-      "rank": 122,
-      "previousRank": 110,
-      "rankChange": "-12",
-      "rankDelta": -12,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "France",
-      "countryFlag": "🇫🇷",
-      "rank": 187,
-      "previousRank": 161,
-      "rankChange": "-26",
-      "rankDelta": -26,
+      "rank": 130,
+      "previousRank": 122,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

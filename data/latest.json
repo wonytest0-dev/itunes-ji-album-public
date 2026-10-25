@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:00:36.180Z",
+  "generatedAt": "2026-10-25T10:00:35.330Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -37,18 +37,6 @@
     {
       "title": "FACE - EP",
       "artist": "Jimin",
-      "country": "Hong Kong",
-      "countryFlag": "🇭🇰",
-      "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
       "country": "Micronesia",
       "countryFlag": "🇫🇲",
       "rank": 54,
@@ -67,6 +55,18 @@
       "previousRank": 63,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Hong Kong",
+      "countryFlag": "🇭🇰",
+      "rank": 67,
+      "previousRank": 49,
+      "rankChange": "-18",
+      "rankDelta": -18,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -111,10 +111,10 @@
       "artist": "Jimin Oh-Havenith",
       "country": "Russia",
       "countryFlag": "🇷🇺",
-      "rank": 167,
+      "rank": 174,
       "previousRank": 167,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-7",
+      "rankDelta": -7,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

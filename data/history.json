@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-25T15:00:37.876Z",
+  "lastRunAt": "2026-10-25T16:00:34.976Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -456,7 +456,7 @@
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Hong Kong",
-      "lastRank": 91,
+      "lastRank": 104,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-24T12:00:34.408Z",
@@ -467,10 +467,21 @@
       "title": "K(NOW)n Piano",
       "artist": "Jimin Oh-Havenith",
       "country": "Russia",
-      "lastRank": 200,
+      "lastRank": null,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-24T21:00:35.684Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|france": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "France",
+      "lastRank": 108,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-25T16:00:34.976Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }

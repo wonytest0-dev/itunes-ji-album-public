@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:00:34.231Z",
+  "generatedAt": "2026-10-25T14:00:37.049Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -59,18 +59,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Hong Kong",
-      "countryFlag": "🇭🇰",
-      "rank": 83,
-      "previousRank": 83,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Laos",
@@ -107,14 +95,26 @@
       "numberOneCount": 0
     },
     {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Hong Kong",
+      "countryFlag": "🇭🇰",
+      "rank": 91,
+      "previousRank": 83,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "K(NOW)n Piano",
       "artist": "Jimin Oh-Havenith",
       "country": "Russia",
       "countryFlag": "🇷🇺",
-      "rank": 192,
+      "rank": 200,
       "previousRank": 192,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

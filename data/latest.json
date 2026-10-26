@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:01:37.200Z",
+  "generatedAt": "2026-10-26T19:00:43.396Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Hong Kong",
       "countryFlag": "🇭🇰",
       "rank": 182,
-      "previousRank": 180,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 182,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

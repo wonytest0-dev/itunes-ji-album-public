@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T04:00:36.701Z",
+  "generatedAt": "2026-10-31T05:00:36.522Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Mexico",
       "countryFlag": "🇲🇽",
       "rank": 102,
-      "previousRank": 95,
-      "rankChange": "-7",
-      "rankDelta": -7,
+      "previousRank": 102,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

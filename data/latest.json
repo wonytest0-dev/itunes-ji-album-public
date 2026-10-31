@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:00:36.522Z",
+  "generatedAt": "2026-10-31T06:00:35.213Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Mexico",
       "countryFlag": "🇲🇽",
-      "rank": 102,
+      "rank": 131,
       "previousRank": 102,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-29",
+      "rankDelta": -29,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

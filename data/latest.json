@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:00:42.655Z",
+  "generatedAt": "2026-11-02T22:00:39.589Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -88,9 +88,9 @@
       "country": "Bahrain",
       "countryFlag": "🇧🇭",
       "rank": 93,
-      "previousRank": 92,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 93,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

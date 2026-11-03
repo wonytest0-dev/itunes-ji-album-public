@@ -1,27 +1,15 @@
 {
-  "generatedAt": "2026-11-03T05:00:37.292Z",
+  "generatedAt": "2026-11-03T06:00:38.794Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 9,
+  "jiminEntriesFound": 8,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "Canada",
-      "countryFlag": "🇨🇦",
-      "rank": 38,
-      "previousRank": 38,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
     {
       "title": "MUSE",
       "artist": "Jimin",
@@ -107,14 +95,14 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE",
+      "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Canada",
       "countryFlag": "🇨🇦",
-      "rank": 130,
-      "previousRank": 130,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rank": 157,
+      "previousRank": 38,
+      "rankChange": "-119",
+      "rankDelta": -119,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T21:00:41.939Z",
+  "generatedAt": "2026-11-04T22:00:38.585Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -15,10 +15,10 @@
       "artist": "Jimin",
       "country": "Finland",
       "countryFlag": "🇫🇮",
-      "rank": 18,
+      "rank": 24,
       "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },

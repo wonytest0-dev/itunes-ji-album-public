@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:00:39.056Z",
+  "generatedAt": "2026-11-05T08:00:37.542Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -16,9 +16,9 @@
       "country": "Singapore",
       "countryFlag": "🇸🇬",
       "rank": 2,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 2,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -112,9 +112,9 @@
       "country": "Bahrain",
       "countryFlag": "🇧🇭",
       "rank": 93,
-      "previousRank": 92,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 93,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

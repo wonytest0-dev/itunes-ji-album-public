@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:00:44.820Z",
+  "generatedAt": "2026-11-05T15:00:46.430Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -40,9 +40,9 @@
       "country": "Finland",
       "countryFlag": "🇫🇮",
       "rank": 47,
-      "previousRank": 39,
-      "rankChange": "-8",
-      "rankDelta": -8,
+      "previousRank": 47,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -124,9 +124,9 @@
       "country": "Canada",
       "countryFlag": "🇨🇦",
       "rank": 176,
-      "previousRank": 173,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 176,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

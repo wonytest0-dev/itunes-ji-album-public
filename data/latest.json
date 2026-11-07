@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T17:00:40.915Z",
+  "generatedAt": "2026-11-07T18:00:39.297Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -83,18 +83,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "MUSE",
-      "artist": "Jimin",
-      "country": "Singapore",
-      "countryFlag": "🇸🇬",
-      "rank": 88,
-      "previousRank": 88,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "FACE - EP",
       "artist": "Jimin",
       "country": "Bahrain",
@@ -109,12 +97,24 @@
     {
       "title": "MUSE",
       "artist": "Jimin",
+      "country": "Singapore",
+      "countryFlag": "🇸🇬",
+      "rank": 96,
+      "previousRank": 88,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
       "country": "Thailand",
       "countryFlag": "🇹🇭",
-      "rank": 103,
+      "rank": 110,
       "previousRank": 103,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-7",
+      "rankDelta": -7,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -123,10 +123,10 @@
       "artist": "Jimin",
       "country": "Finland",
       "countryFlag": "🇫🇮",
-      "rank": 155,
+      "rank": 165,
       "previousRank": 155,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-10",
+      "rankDelta": -10,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

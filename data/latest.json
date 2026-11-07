@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T21:00:39.487Z",
+  "generatedAt": "2026-11-07T22:00:36.901Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 10,
+  "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -97,24 +97,12 @@
     {
       "title": "MUSE",
       "artist": "Jimin",
-      "country": "Singapore",
-      "countryFlag": "🇸🇬",
-      "rank": 100,
-      "previousRank": 100,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "MUSE",
-      "artist": "Jimin",
       "country": "Thailand",
       "countryFlag": "🇹🇭",
       "rank": 129,
-      "previousRank": 119,
-      "rankChange": "-10",
-      "rankDelta": -10,
+      "previousRank": 129,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -123,10 +111,10 @@
       "artist": "Jimin",
       "country": "Finland",
       "countryFlag": "🇫🇮",
-      "rank": 168,
+      "rank": 177,
       "previousRank": 168,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-9",
+      "rankDelta": -9,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

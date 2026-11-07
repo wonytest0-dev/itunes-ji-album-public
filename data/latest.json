@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:00:36.901Z",
+  "generatedAt": "2026-11-07T23:00:37.219Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -112,9 +112,9 @@
       "country": "Finland",
       "countryFlag": "🇫🇮",
       "rank": 177,
-      "previousRank": 168,
-      "rankChange": "-9",
-      "rankDelta": -9,
+      "previousRank": 177,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

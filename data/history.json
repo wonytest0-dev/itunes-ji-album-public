@@ -1,11 +1,11 @@
 {
-  "lastRunAt": "2026-11-07T09:00:41.176Z",
+  "lastRunAt": "2026-11-07T10:00:35.775Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Singapore",
-      "lastRank": 62,
+      "lastRank": 75,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T10:46:50.550Z",
@@ -104,7 +104,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Thailand",
-      "lastRank": 46,
+      "lastRank": 53,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-06T11:00:34.563Z",
@@ -500,7 +500,7 @@
       "title": "MUSE",
       "artist": "Jimin",
       "country": "Finland",
-      "lastRank": 135,
+      "lastRank": 140,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-11-04T18:02:20.577Z",

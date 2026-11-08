@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:00:41.577Z",
+  "generatedAt": "2026-11-08T16:00:37.137Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "Thailand",
       "countryFlag": "🇹🇭",
-      "rank": 155,
+      "rank": 158,
       "previousRank": 155,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

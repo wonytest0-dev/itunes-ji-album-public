@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:00:46.687Z",
+  "generatedAt": "2026-11-08T10:01:38.762Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Thailand",
       "countryFlag": "🇹🇭",
       "rank": 144,
-      "previousRank": 138,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "previousRank": 144,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

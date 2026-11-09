@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T19:00:47.125Z",
+  "generatedAt": "2026-11-09T20:00:41.478Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "India",
       "countryFlag": "🇮🇳",
       "rank": 151,
-      "previousRank": 143,
-      "rankChange": "-8",
-      "rankDelta": -8,
+      "previousRank": 151,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -112,9 +112,9 @@
       "country": "India",
       "countryFlag": "🇮🇳",
       "rank": 178,
-      "previousRank": 170,
-      "rankChange": "-8",
-      "rankDelta": -8,
+      "previousRank": 178,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

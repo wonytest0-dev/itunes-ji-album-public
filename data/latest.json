@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:00:44.040Z",
+  "generatedAt": "2026-11-09T22:00:40.647Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "India",
       "countryFlag": "🇮🇳",
-      "rank": 161,
-      "previousRank": 151,
-      "rankChange": "-10",
-      "rankDelta": -10,
+      "rank": 167,
+      "previousRank": 161,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -111,10 +111,10 @@
       "artist": "Jimin",
       "country": "India",
       "countryFlag": "🇮🇳",
-      "rank": 188,
-      "previousRank": 178,
-      "rankChange": "-10",
-      "rankDelta": -10,
+      "rank": 194,
+      "previousRank": 188,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

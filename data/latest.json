@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:00:40.037Z",
+  "generatedAt": "2026-11-10T03:00:42.974Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -28,9 +28,9 @@
       "country": "Micronesia",
       "countryFlag": "🇫🇲",
       "rank": 48,
-      "previousRank": 49,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 48,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -40,9 +40,9 @@
       "country": "Micronesia",
       "countryFlag": "🇫🇲",
       "rank": 56,
-      "previousRank": 57,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 56,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "India",
       "countryFlag": "🇮🇳",
-      "rank": 181,
-      "previousRank": 173,
-      "rankChange": "-8",
-      "rankDelta": -8,
+      "rank": 180,
+      "previousRank": 181,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

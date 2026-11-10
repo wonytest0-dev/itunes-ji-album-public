@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:00:42.974Z",
+  "generatedAt": "2026-11-10T04:00:35.409Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -99,10 +99,10 @@
       "artist": "Jimin",
       "country": "India",
       "countryFlag": "🇮🇳",
-      "rank": 180,
-      "previousRank": 181,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "rank": 185,
+      "previousRank": 180,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

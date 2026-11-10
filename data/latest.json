@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T05:00:38.696Z",
+  "generatedAt": "2026-11-10T06:00:37.950Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 8,
+  "jiminEntriesFound": 7,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -91,18 +91,6 @@
       "previousRank": 95,
       "rankChange": "=",
       "rankDelta": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "FACE - EP",
-      "artist": "Jimin",
-      "country": "India",
-      "countryFlag": "🇮🇳",
-      "rank": 186,
-      "previousRank": 185,
-      "rankChange": "-1",
-      "rankDelta": -1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

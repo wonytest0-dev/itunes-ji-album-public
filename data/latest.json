@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:00:41.645Z",
+  "generatedAt": "2026-11-11T09:00:39.414Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -100,9 +100,9 @@
       "country": "Japan",
       "countryFlag": "🇯🇵",
       "rank": 178,
-      "previousRank": 158,
-      "rankChange": "-20",
-      "rankDelta": -20,
+      "previousRank": 178,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

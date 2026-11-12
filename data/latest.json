@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:00:49.370Z",
+  "generatedAt": "2026-11-12T15:00:43.075Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
@@ -51,10 +51,10 @@
       "artist": "Jimin",
       "country": "Nepal",
       "countryFlag": "🇳🇵",
-      "rank": 63,
+      "rank": 62,
       "previousRank": 63,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -100,9 +100,9 @@
       "country": "Australia",
       "countryFlag": "🇦🇺",
       "rank": 173,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 173,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -112,9 +112,9 @@
       "country": "Australia",
       "countryFlag": "🇦🇺",
       "rank": 176,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 176,
+      "rankChange": "=",
+      "rankDelta": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

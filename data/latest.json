@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T13:00:40.438Z",
+  "generatedAt": "2026-11-12T14:00:49.370Z",
   "countriesFetched": 119,
   "countriesSucceeded": 119,
   "countriesFailed": 0,
-  "jiminEntriesFound": 7,
+  "jiminEntriesFound": 9,
   "totalNumberOneCountriesCurrent": 0,
   "newAlbumsDetected": [],
   "newNumberOnes": [],
@@ -91,6 +91,30 @@
       "previousRank": 91,
       "rankChange": "=",
       "rankDelta": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Australia",
+      "countryFlag": "🇦🇺",
+      "rank": 173,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Australia",
+      "countryFlag": "🇦🇺",
+      "rank": 176,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }

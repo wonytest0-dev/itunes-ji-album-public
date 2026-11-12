@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-12T13:00:40.438Z",
+  "lastRunAt": "2026-11-12T14:00:49.370Z",
   "entries": {
     "muse|singapore": {
       "title": "MUSE",
@@ -537,6 +537,28 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-11-09T02:00:36.823Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "face - ep|australia": {
+      "title": "FACE - EP",
+      "artist": "Jimin",
+      "country": "Australia",
+      "lastRank": 173,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-11-12T14:00:49.370Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "muse|australia": {
+      "title": "MUSE",
+      "artist": "Jimin",
+      "country": "Australia",
+      "lastRank": 176,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-11-12T14:00:49.370Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }
